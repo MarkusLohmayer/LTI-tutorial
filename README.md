@@ -3,6 +3,11 @@ This is a tutorial on the basic theory of LTI systems.
 The tutorial is written as a Jupyter notebook (http://jupyter.org).  
 It contains some Python code, which also uses numpy, scipy, sympy, matplotlib and ipywidgets.
 
+## License information
+
+&copy; 2017 Markus Lohmayer
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 ## Setup
 
 - As a recommendation install the miniconda Python distribution (https://conda.io/miniconda.html):  
