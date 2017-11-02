@@ -16,13 +16,16 @@ Conda is not only a package manager for Python, it also is an environment manage
 This means it allows you to work with different (separated) environments that may have installed different sets of packages with different versions.
 
 - Create an environment:  
-Go to your terminal window and type: **conda create --name lab3 python=3 numpy scipy sympy matplotlib jupyter ipywidgets**  
+Go to your terminal window and type:  
+**conda create --name lab3 python=3 numpy scipy sympy matplotlib jupyter ipywidgets**  
 This creates an environment named "lab3" that contains the required packages.
 
 - Activate the environment:  
-Everytime you want to use this setup go to the terminal window and type: **source activate lab3**
+Everytime you want to use this setup go to the terminal window and type:  
+**source activate lab3**  
 Note that on Windows the source is not necessary and **activate lab3** will suffice.
 
 - Run the Jupyter notebook:  
-Now that your environment is active you can start the Jupyter notebook. In the terminal type: **jupyter notebook**  
+Now that your environment is active you can start the Jupyter notebook. In the terminal type:  
+**jupyter notebook**  
 A browser window with the Jupyter notebook will open. Note that the working directoy of Jupyter will be the same as the working directory of the shell from which you started the notebook.
