@@ -18,11 +18,12 @@ Download the Python 3 installer for your operating system. Doing so you get a ve
 Conda is not only a package manager for Python, it also is an environment manager at the same time.
 This means it allows you to work with different (separated) environments that may have installed different sets of packages with different versions.
 - Clone the git repository  
-Go to your terminal and go to the folder in which you want to store this repository as a subfolder by running something like
-`cd ~/some/path`. Then run `git clone https://github.com/MarquitoForrest/LTI-tutorial`.
+Go to your terminal and go to the folder in which you want to store this repository as a subfolder by running something like  
+`cd ~/some/path`. Then run  
+`git clone https://github.com/MarquitoForrest/LTI-tutorial`.
 
 - Create an environment:  
-Now you can install all dependencies that are listed in the file `environment.yml` by running:
+Now you can install all dependencies that are listed in the file `environment.yml` by running:  
 `conda env create -f environment.yml`.  
 This creates an environment named `LTI_tutorial` that contains the required packages.  
 Of course you could change that name by first editing the file.
@@ -30,10 +31,11 @@ Of course you could change that name by first editing the file.
 - Activate the environment:  
 Everytime you want to use this setup go to the terminal window and type:  
 `source activate LTI_tutorial`  
-Note that on Windows the source is not necessary and `activate lab3` will suffice.
+Note that on Windows the source is not necessary and  
+`activate lab3` will suffice.
 
 - Run the Jupyter notebook:  
 Now that your environment is active you can start the Jupyter notebook. In the terminal type:  
-`jupyter notebook`  
+`jupyter notebook`.  
 A browser window with the Jupyter notebook will open.
 Note that the working directoy of Jupyter will be the same as the working directory of the shell from which you started the notebook.
