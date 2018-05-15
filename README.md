@@ -3,8 +3,10 @@ This is a tutorial on the basic theory of LTI systems.
 The tutorial is written as a Jupyter notebook (http://jupyter.org).  
 It contains some Python code, which also uses numpy, scipy, sympy, matplotlib and ipywidgets.
 
-Click on the badge to run this notebook in the cloud:  
+Click on the badge to configure a complete environment and run this notebook in the cloud:  
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MarquitoForrest/LTI-tutorial/master?filepath=LTI-tutorial.ipynb)
+
+Feedback on this material is very welcome! You can find contact information at the beginning of the notebook.
 
 ## License information
 
