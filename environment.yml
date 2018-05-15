@@ -1,0 +1,11 @@
+name: LTI_tutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - scipy
+  - ipywidgets
+  - sympy
+  - notebook
