@@ -32,7 +32,7 @@ Of course you could change that name by first editing the file.
 Everytime you want to use this setup go to the terminal window and type:  
 `source activate LTI_tutorial`  
 Note that on Windows the source is not necessary and  
-`activate lab3` will suffice.
+`activate LTI_tutorial` will suffice.
 
 - Run the Jupyter notebook:  
 Now that your environment is active you can start the Jupyter notebook. In the terminal type:  
