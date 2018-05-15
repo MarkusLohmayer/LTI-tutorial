@@ -4,7 +4,8 @@ The tutorial is written as a Jupyter notebook (http://jupyter.org).
 It contains some Python code, which also uses numpy, scipy, sympy, matplotlib and ipywidgets.
 
 Click on the badge to configure a complete environment and run this notebook in the cloud:  
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MarquitoForrest/LTI-tutorial/master?filepath=LTI-tutorial.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MarquitoForrest/LTI-tutorial/master?filepath=LTI-tutorial.ipynb)  
+Once the environment is ready, you can also display the notebook in a presentation mode by clicking on the rightmost button in the Jupyter notebook toolbar.
 
 Feedback on this material is very welcome! You can find contact information at the beginning of the notebook.
 
